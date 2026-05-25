@@ -1,0 +1,194 @@
+2026-05-24 04:14:22 INFO  TC_001_Registration:20 - ****Startingclass TestCases.TC_001_Registration****
+2026-05-24 04:15:33 INFO  TC_001_Registration:20 - ****Startingclass TestCases.TC_001_Registration****
+2026-05-24 04:31:32 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:31:32 INFO  TC_001_Registration:22 - Clicking My account
+2026-05-24 04:31:32 INFO  TC_001_Registration:24 - Clicking My Registration
+2026-05-24 04:31:33 INFO  TC_001_Registration:27 - Sending data to the registration fields	
+2026-05-24 04:31:33 INFO  TC_001_Registration:37 - Validating expected message..
+2026-05-24 04:31:36 INFO  TC_001_Registration:51 - TC_001_Registration Executed
+2026-05-24 04:33:03 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:33:03 INFO  TC_001_Registration:22 - Clicking My account
+2026-05-24 04:33:03 INFO  TC_001_Registration:24 - Clicking My Registration
+2026-05-24 04:33:04 INFO  TC_001_Registration:27 - Sending data to the registration fields	
+2026-05-24 04:33:04 INFO  TC_001_Registration:37 - Validating expected message..
+2026-05-24 04:33:06 INFO  TC_001_Registration:51 - TC_001_Registration Executed
+2026-05-24 04:35:41 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:35:41 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:35:42 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 04:35:42 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 04:35:43 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 04:35:45 INFO  TC_001_Registration:53 - TC_001_Registration Executed
+2026-05-24 04:36:41 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:36:41 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:36:42 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 04:36:42 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 04:36:43 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 04:36:45 INFO  TC_001_Registration:52 - TC_001_Registration Executed
+2026-05-24 04:39:30 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:39:30 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:39:31 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 04:39:32 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 04:39:32 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 04:39:34 INFO  TC_001_Registration:52 - TC_001_Registration Executed
+2026-05-24 04:43:06 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:43:06 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:43:06 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 04:43:07 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 04:43:07 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 04:43:09 INFO  TC_001_Registration:59 - TC_001_Registration Executed
+2026-05-24 04:44:30 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:44:30 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:44:30 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 04:44:31 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 04:44:32 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 04:44:34 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 04:44:34 INFO  TC_001_Registration:60 - TC_001_Registration Executed
+2026-05-24 04:45:53 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:45:53 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:45:53 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 04:45:54 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 04:45:55 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 04:45:57 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 04:45:57 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 04:46:05 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:46:05 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:46:05 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 04:46:05 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 04:46:06 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 04:46:08 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 04:46:08 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 04:46:30 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:46:30 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:46:30 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 04:46:31 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 04:46:32 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 04:46:34 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 04:46:34 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 04:47:07 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 04:47:07 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 04:47:09 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:30:08 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:30:08 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:30:09 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:30:09 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:30:10 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:30:12 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:30:12 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:32:27 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:32:27 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:32:27 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:32:29 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:32:29 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:32:31 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:32:31 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:38:01 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:38:01 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:38:02 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:38:03 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:38:03 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:38:05 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:38:05 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:39:12 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:39:12 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:39:13 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:39:13 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:39:13 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:39:14 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:39:15 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:39:15 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:39:17 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:39:19 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:39:19 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:39:21 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:39:23 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:39:23 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:39:23 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:39:23 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:39:23 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:39:24 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:39:25 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:39:27 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:39:27 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:53:17 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:53:18 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:53:19 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:53:19 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:53:19 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:53:19 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:53:20 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:53:20 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:53:22 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:53:22 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:53:24 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:53:24 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:53:24 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:53:24 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 14:53:25 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 14:53:25 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 14:53:26 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 14:53:27 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 14:53:27 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 14:53:29 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 14:53:29 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 15:18:46 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 15:18:46 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 15:18:46 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 15:18:46 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 15:18:46 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 15:18:47 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 15:18:48 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 15:18:49 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 15:18:50 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 15:18:52 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 15:18:52 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 15:18:52 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 15:18:54 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 15:18:54 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 15:18:55 INFO  TC_001_Registration:18 - ****Starting class TestCases.TC_001_Registration ****
+2026-05-24 15:18:55 INFO  TC_001_Registration:23 - Clicking My account
+2026-05-24 15:18:55 INFO  TC_001_Registration:25 - Clicking My Registration
+2026-05-24 15:18:56 INFO  TC_001_Registration:28 - Sending data to the registration fields	
+2026-05-24 15:18:57 INFO  TC_001_Registration:38 - Validating expected message..
+2026-05-24 15:18:59 ERROR TC_001_Registration:48 - Test failed: 
+2026-05-24 15:18:59 INFO  TC_001_Registration:60 - TC_001_Registration Executed\n
+2026-05-24 15:19:04 INFO  TC_002_Login:18 - Clicking Login
+2026-05-24 15:19:05 INFO  TC_002_Login:18 - Clicking Login
+2026-05-24 15:19:07 ERROR TC_002_Login:40 - [Ljava.lang.StackTraceElement;@3cf61860
+2026-05-24 15:19:07 ERROR TC_002_Login:40 - [Ljava.lang.StackTraceElement;@3b9873ff
+2026-05-24 15:19:14 INFO  TC_002_Login:18 - Clicking Login
+2026-05-24 15:19:14 ERROR TC_002_Login:40 - [Ljava.lang.StackTraceElement;@d0e11f8
+2026-05-24 15:20:27 INFO  TC_002_Login:18 - Clicking Login
+2026-05-24 15:20:29 ERROR TC_002_Login:40 - [Ljava.lang.StackTraceElement;@f21febf
+2026-05-24 15:21:07 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:21:09 ERROR TC_002_Login:39 - [Ljava.lang.StackTraceElement;@11462771
+2026-05-24 15:21:47 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:21:49 ERROR TC_002_Login:40 - [Ljava.lang.StackTraceElement;@395764ff
+2026-05-24 15:23:37 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:23:39 ERROR TC_002_Login:40 - [Ljava.lang.StackTraceElement;@22b06fd
+2026-05-24 15:24:05 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:25:25 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:26:00 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:27:10 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:27:16 INFO  TC_002_Login:36 - Login not successfull for usermalojij@gmail.com
+2026-05-24 15:27:51 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:27:57 INFO  TC_002_Login:36 - Login not successfull for usermalojij@gmail.com
+2026-05-24 15:29:15 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:29:21 INFO  TC_002_Login:36 - Login not successfull for usermalojij@gmail.com
+2026-05-24 15:30:13 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:30:19 INFO  TC_002_Login:36 - Login not successfull for usermalojij@gmail.com
+2026-05-24 15:31:31 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:32:29 INFO  TC_002_Login:18 - Clicking Login
+2026-05-24 15:33:20 INFO  TC_002_Login:18 - Clicking Login
+2026-05-24 15:33:47 INFO  TC_002_Login:17 - Clicking Login
+2026-05-24 15:34:54 INFO  TC_002_Login:18 - Clicking Login
+2026-05-24 15:35:27 INFO  TC_002_Login:18 - Clicking Login
+2026-05-24 15:54:56 INFO  TC_002_Login:19 - Clicking Login
+2026-05-24 15:55:00 INFO  TC_002_Login:39 - Login not successfull
+2026-05-24 15:55:29 INFO  TC_002_Login:19 - Clicking Login
+2026-05-24 15:55:33 INFO  TC_002_Login:39 - Login not successfull
+2026-05-24 15:56:47 INFO  TC_002_Login:19 - Clicking Login
+2026-05-24 15:56:50 INFO  TC_002_Login:39 - Login not successfull
+2026-05-24 15:57:09 INFO  TC_002_Login:19 - Clicking Login
+2026-05-24 15:57:13 INFO  TC_002_Login:34 - Login Successfull
+2026-05-24 15:58:08 INFO  TC_002_Login:19 - Clicking Login
+2026-05-24 15:58:10 INFO  TC_002_Login:34 - Login Successfull
