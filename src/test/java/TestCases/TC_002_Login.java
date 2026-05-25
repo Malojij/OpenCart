@@ -41,9 +41,19 @@ public class TC_002_Login extends BaseClass
 		}
 		
 		
-		
-		
-		
-}
+	}	
 
+	public void verifySearch()
+	{
+		System.out.println("Im here verify");
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

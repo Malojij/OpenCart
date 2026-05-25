@@ -35,4 +35,9 @@ public class Login_Page extends BasePage
 		loginButton.click();
 	}
 	
+	public void testtete()
+	{
+		System.out.println("Test ");
+	}
+	
 }
